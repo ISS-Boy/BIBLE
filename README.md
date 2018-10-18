@@ -1,7 +1,7 @@
 # BIBLE
 
-> 我是一个Doc-repo，有优秀的论文与书籍都可以在这里share~欢迎大家commit
-> 食用指南：fork repo，有新内容直接commit再push即可(记得先pull同步)
+> 我是一个Doc-repo，有优秀的论文与书籍都可以在这里share~欢迎大家commit  
+食用指南：Clone repo，有新内容直接commit再push即可(记得先pull同步)
 
 - papers:论文
 - sharing:每周分享
