@@ -1,6 +1,6 @@
 # DeepNLP
 
-##　Word embedding & Language Model
+## Word embedding & Language Model
 
 >  how to get a word embedding?
 
