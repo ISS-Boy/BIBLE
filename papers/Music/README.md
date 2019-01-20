@@ -8,7 +8,7 @@
 
 ## Data Set
 
-![known-dataset](.\imgs\known-dataset.png)
+![known-dataset](./imgs/known-dataset.png)
 
 ### MIDI
 
@@ -44,9 +44,8 @@
 > 不只是用来做分类
 
 - [MusicChordRecognitionUsingArtificialNeuralNetworks-With-MIDI-Files](./MusicChordRecognitionUsingArtificialNeuralNetworks.pdf)
-- [Chord Analysis Using Ensemble Constraints](./Chord Analysis Using Ensemble Constraints.pdf)
 - [CHORD DETECTION USING DEEP LEARNING](./CHORD DETECTION USING DEEP LEARNING.pdf)
-- [IMPROVED CHORD RECOGNITION BY COMBINING DURATION AND HARMONIC LANGUAGE MODELS       // ISMIR2018](./IMPROVED CHORD RECOGNITION BY COMBINING DURATION AND HARMONIC LANGUAGE MODELS.pdf)
+- [IMPROVED CHORD RECOGNITION BY COMBINING DURATION AND HARMONIC LANGUAGE MODELS](./IMPROVED CHORD RECOGNITION BY COMBINING DURATION AND HARMONIC LANGUAGE MODELS.pdf)
 
 ### Self-supervised Learning
 
